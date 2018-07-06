@@ -1,0 +1,9 @@
+source,target,value
+a,b,0.25
+a,c,0.25
+a,d,0.25
+b,a,0.25
+b,d,0.25
+c,a,0.25
+d,b,0.25
+d,c,0.25
